@@ -1,4 +1,9 @@
-<h2 align="left">Olá! 👋 Sou a Gabriella, estudante de tecnologia.</h2>
+<h2 align="left">Olá! 👋 Eu sou a Gabriella.
+Bem vindo ao meu perfil do Github!
+🔭 Atualmente cursando Análise e Desenvolvimento de Sistemas 4/5
+🌱 Estudando JavaScript, HTML, CSS e React
+💡 Interessada em Desenvolvimento Mobile, Web
+🎯 Próximas tecnologias/linguagens que pretendo estudar: TypeScript, Python, MySQL</h2>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&username=GabriellaFsena" height="150" alt="stats graph"  />
