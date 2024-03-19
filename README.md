@@ -1,6 +1,12 @@
 <h2 align="left">Olá! 👋 Eu sou a Gabriella.</h2>
 <div>
-<ul>Bem vindo ao meu perfil do Github!
+<ul>
+<div style="text-align: center;">
+  <img height="15" src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" />
+  Bem-vindo ao meu perfil do Github!
+  <img height="15" src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" />
+</div>
+ 
   <li> 🔭 Atualmente cursando Análise e Desenvolvimento de Sistemas 4/5 </li>
   <li> 🌱 Estudando JavaScript, HTML, CSS e React </li>
   <li> 💡 Interessada em Desenvolvimento Mobile, Web </li>
@@ -8,7 +14,7 @@
 
 
  </ul>
- <img align="right" height="150" src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif"  />
+
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&username=GabriellaFsena" height="150" alt="stats graph"  />
