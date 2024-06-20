@@ -8,9 +8,9 @@
 </div>
  
   <li> 🔭 Atualmente cursando Análise e Desenvolvimento de Sistemas 5/5 </li>
-  <li> 🌱 Estudando JavaScript, HTML, CSS e React </li>
+  <li> 🌱 Estudando JavaScript, HTML, CSS, React, TypeScript, Python, MySQL  </li>
   <li> 💡 Interessada em Desenvolvimento Mobile, Web </li>
-  <li>🎯 Próximas tecnologias/linguagens que pretendo estudar: TypeScript, Python, MySQL </li>
+
 
 
  </ul>
