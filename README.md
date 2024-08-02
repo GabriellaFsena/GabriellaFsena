@@ -7,9 +7,9 @@
   <img height="15" src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" />
 </div>
  
-  <li> 🔭 Atualmente cursando Análise e Desenvolvimento de Sistemas 5/5 </li>
-  <li> 🌱 Estudando JavaScript, HTML, CSS, React, TypeScript, Python, MySQL  </li>
-  <li> 💡 Interessada em Desenvolvimento Mobile, Web </li>
+  <li> 🔭 Graduada em Análise e Desenvolvimento de Sistemas </li>
+  <li> 🌱 Estudando JavaScript, Cypress, Selenium, Python, MySQL  </li>
+  <li> 💡 Interessada em Quality Assurance   </li>
 
 
 
