@@ -8,8 +8,8 @@
 </div>
  
   <li> 🔭 Graduada em Análise e Desenvolvimento de Sistemas </li>
-  <li> 🌱 Estudando JavaScript, Cypress, Selenium, Python, MySQL  </li>
-  <li> 💡 Interessada em Quality Assurance   </li>
+  <li> 🌱Skills: JavaScript, Cypress, Selenium, Python, MySQL  </li>
+  <li> 💡 QA Engineer   </li>
 
 
 
